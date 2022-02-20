@@ -1,0 +1,144 @@
+  <!-- /.fact-one -->
+        <section class="app-shot-one " id="screenshots " style="z-index: 10; ">
+
+            <div class="container-fluid ">
+                <div class="block-title text-center ">
+                    <h2 class="block-title__title ">Our <br> <span>Team</span></h2>
+                    <!-- /.block-title__title -->
+                </div>
+                <!-- /.block-title -->
+                <div class="app-shot-one__carousel owl-theme owl-carousel ">
+                    <div class="item ">
+                        <div class="card ">
+                            <div class="card-img-top ">
+
+                            </div>
+                            <div class="card-title ">
+
+                            </div>
+                            <div class="card-text ">
+
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /.item -->
+                    <div class="item ">
+                        <div class="card ">
+                            <div class="card-img-top ">
+
+                            </div>
+                            <div class="card-title ">
+
+                            </div>
+                            <div class="card-text ">
+
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /.item -->
+                    <div class="item ">
+                        <div class="card ">
+                            <div class="card-img-top ">
+
+                            </div>
+                            <div class="card-title ">
+
+                            </div>
+                            <div class="card-text ">
+
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /.item -->
+                    <div class="item ">
+                        <div class="card ">
+                            <div class="card-img-top ">
+
+                            </div>
+                            <div class="card-title ">
+
+                            </div>
+                            <div class="card-text ">
+
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /.item -->
+                    <div class="item ">
+                        <div class="card ">
+                            <div class="card-img-top ">
+
+                            </div>
+                            <div class="card-title ">
+
+                            </div>
+                            <div class="card-text ">
+
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /.item -->
+                    <div class="item ">
+                        <div class="card ">
+                            <div class="card-img-top ">
+
+                            </div>
+                            <div class="card-title ">
+
+                            </div>
+                            <div class="card-text ">
+
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /.item -->
+                    <div class="item ">
+                        <div class="card ">
+                            <div class="card-img-top ">
+
+                            </div>
+                            <div class="card-title ">
+
+                            </div>
+                            <div class="card-text ">
+
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /.item -->
+                    <div class="item ">
+                        <div class="card ">
+                            <div class="card-img-top ">
+
+                            </div>
+                            <div class="card-title ">
+
+                            </div>
+                            <div class="card-text ">
+
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /.item -->
+                    <div class="item ">
+                        <div class="card ">
+                            <div class="card-img-top ">
+
+                            </div>
+                            <div class="card-title ">
+
+                            </div>
+                            <div class="card-text ">
+
+                            </div>
+                        </div>
+                    </div>
+
+
+                    <!-- /.item -->
+                </div>
+                <!-- /.app-shot-one__carousel owl-theme owl-carousel -->
+            </div>
+            <!-- /.container-fluid -->
+        </section>
+        <!-- /.app-shot-one -->
